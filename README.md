@@ -1,4 +1,3 @@
-# Game
 
 ## _Aplikacija_
 
